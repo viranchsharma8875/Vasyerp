@@ -1,0 +1,2 @@
+rootProject.name = "VasyERP_Task"
+include ':app'
